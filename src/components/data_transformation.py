@@ -13,7 +13,7 @@ import numpy as np
 from src.exception import CustomException
 from src.logger import logging
 
-import exception
+# import exception
 
 from src.utils import save_object
 
@@ -143,4 +143,4 @@ class DataTransformation:
 
 
 
-
+#Output is getting a pickel file
