@@ -1,4 +1,4 @@
-==> 2024-02-29 12:42:02 <==
+==> 2024-02-29 22:29:30 <==
 # cmd: C:\Users\karti\anaconda3\Scripts\conda-script.py create --prefix myenv python==3.9 -y
 # conda version: 23.11.0
 +defaults/noarch::tzdata-2024a-h04d1e81_0
