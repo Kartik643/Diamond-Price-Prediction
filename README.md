@@ -1,4 +1,4 @@
-## MAchine Learning Project
+## Machine Learning Project
 
 ##How to Run (in terminal)
 1. create a vertiual env by this :conda create --name env python=3.9
